@@ -1,5 +1,5 @@
 # About Me
-# Poreddi-Arpitha
+# Poreddi Arpitha
 
 ---
 
@@ -62,6 +62,20 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=poreddiarpitha&show_icons=true&theme=tokyonight" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poreddiarpitha&layout=compact&theme=tokyonight" alt="languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=poreddiarpitha&theme=tokyonight" alt="streak" />
+
+</p>
+
+---
+
 ## 💼 Featured Project
 
 ### 🏥 Healthcare Billing & Patient Payment System
@@ -79,29 +93,17 @@
 
 🔹 Generated **financial reports & summaries**
 
-
+---
 
 ## <h3>🔊 Live Event Detection for People Safety Using Audio Analysis & LightGBM</h3>
 
 ## 📌 Overview
 A machine learning-based project that detects dangerous or emergency events using real-time audio analysis. The system uses **LightGBM** to classify sounds like screams, alarms, or accidents for improving public safety.
 
----
-
-## 🚀 Features
-- 🎙️ Real-time audio event detection  
-- 🤖 LightGBM-based machine learning model  
-- 🔊 Audio preprocessing & feature extraction  
-- 🚨 Emergency sound classification  
-- 📊 Fast and accurate predictions  
-
----
-
 ## 🛠️ Tech Stack
 - Python  
 - LightGBM  
 - NumPy, Pandas, Librosa, Scikit-learn  
-
 
 ---
 
